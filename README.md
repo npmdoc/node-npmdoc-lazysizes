@@ -1,4 +1,7 @@
-# api documentation for  [lazysizes (v3.0.0)](https://github.com/aFarkas/lazysizes#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-lazysizes.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lazysizes) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lazysizes.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lazysizes)
+# npmdoc-lazysizes
+
+#### api documentation for  [lazysizes (v3.0.0)](https://github.com/aFarkas/lazysizes#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-lazysizes.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-lazysizes) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-lazysizes.svg)](https://travis-ci.org/npmdoc/node-npmdoc-lazysizes)
+
 #### High performance (jankfree) lazy loader for images (including responsive images), iframes and scripts (widgets).
 
 [![NPM](https://nodei.co/npm/lazysizes.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lazysizes)
